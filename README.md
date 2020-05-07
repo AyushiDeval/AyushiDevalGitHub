@@ -1,5 +1,4 @@
 # AyushiDevalGitHub
-# INFO7374DigitalMarketingAnalytics
  
         
    ### Assignment 1 - Analysis of Digital Marketing Mix of VistaPrint 
